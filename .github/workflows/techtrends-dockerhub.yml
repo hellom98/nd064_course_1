@@ -27,4 +27,4 @@ jobs:
         with:
           context: "{{defaultContext}}:project/techtrends"
           push: true
-          tags: hellom98/app:latest
+          tags: hellom98/techtrends:latest
